@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body{
+    background-image: url(https://i.pinimg.com/originals/ee/54/b9/ee54b97b154164913786e10a94067a3c.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%,100%;
+    background-position-y: -1000px;
+}
+.icon img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+.heading{
+    display: flex;
+    margin-left: 17.5%;
+    cursor: default;
+    font-family: 'Open Sans', sans-serif;
+}
+.name{
+    margin-top: 40px;
+    margin-left: 5px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+.mainform{
+    margin-top: 20px;
+    margin-left: 18%;
+    box-shadow: 10px 10px 50px grey;
+    background-color: white;
+    padding: 30px;
+    width: 60%;
+    height: 1000px;
+    
+}
+.cwlogo img{
+    width: 85px;
+    height: 70px;
+}
+.table{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.dwwmain{
+    text-align: left;
+}
+.dww{
+    font-size: 20px;
+}
+.dwwp{
+    font-size: 14px;
+    opacity: 0.5;
+}
+button{
+    background-color: rgb(18, 172, 77);
+    width: 100px;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 50px;
+    font-size: 11.2px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: darkgreen;
+}
+.qr img{
+    width: 250px;
+    height: 250px;
+    margin-left: 590px;
+    margin-top: -175px;
+}
+.form1{
+    border: 2px solid #e9e4e4; 
+    height: 70px;
+    width: 83%;
+    padding: 30px;
+    padding-left: 47px;
+    margin-left: 45px;
+    border-radius: 20px;
+}
+.form2{
+    padding: 30px;
+    padding-left: 47px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.form2 ol{
+    margin-top: 50px;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+.form2 a{
+    text-decoration: none;
+    color:rgb(18, 172, 77) ;
+}
+.form2 a:hover{
+    color: darkgreen;
+}
+.heading2{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+

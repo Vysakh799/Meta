@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body{
+    background-image: url(https://wishu.io/wp-content/uploads/2023/07/abf54c8b-ed4e-499f-8ac5-f656047e6ed0-qAoj5Q.jpeg);
+    background-repeat: no-repeat;
+}
+.label h2{
+    color: rgb(199, 190, 190);
+    font-size: 15px;
+    cursor: default;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+input[type="text"]{
+    width: 340px;
+    height: 50px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    color: black;
+
+}
+input[type="password"]{
+    width: 340px;
+    height: 50px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+}
+input[type=button]{
+    background-color:azure;
+    width: 100%;
+    color: rgb(6, 6, 6);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: trasform 0.2s;
+}
+input[type=button]:hover{
+    background-color: rgb(46, 45, 45);
+    color: azure;
+}
+.form1 a{
+    text-decoration: none;
+    color: azure;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+.or{
+    color: azure;
+    opacity: 0.4;
+    cursor: default;
+}
+.form1{
+    background-color: rgb(31, 33, 36);
+    opacity: 0.9;
+    padding: 15px;
+    width: 385px;
+    border-radius: 15px;
+}
+.instalogo img{
+    height: 45px;
+    width: 45px;
+    border-radius: 10px;
+}
+.cntinsta{
+    font-size: 15px;
+    color: azure;
+    margin-left: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+.form2{
+    background-color: rgb(31, 33, 36);
+    opacity: 0.9;
+    margin-top: 10px;
+    padding: 15px;
+    padding-left: 50px;
+    width: 347px;
+    border-radius: 15px;
+}
+.form1 table{
+    text-align: center;
+}
+.form1 table, th, td{
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+}
+.total{
+    margin-left: 550px;
+    margin-top: 140px;
+}
+.qr{
+    margin-left: 90% ;
+    margin-top: -170px;
+    background-color: rgb(31, 33, 36);
+    opacity: 0.9;
+    padding: 15px;
+    padding-top: 5px;
+    border-radius: 15px;
+    width: 120px;
+}
+.qr img{
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+    margin-left: 10px;
+}
+.qr h2{
+    margin-left: 10px;
+    font-size: 12px;
+    color: azure;
+    font-family: 'Roboto', sans-serif;
+    opacity: 0.5;
+    cursor: default;
+}
+#doublearrow{
+    color: white;
+    opacity: 0.5;
+}
