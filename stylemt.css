@@ -47,6 +47,7 @@ nav h2{
 }
 .icons img:hover{
    transform: scale(1.1);
+   box-shadow: none;
 }
 
 .foot{
@@ -60,3 +61,4 @@ nav h2{
     padding-left: 85px;
     opacity: 0.5;
 }
+
